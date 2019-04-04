@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo-provider-dept-8001" />
         <module name="demoapi" />
+        <module name="demo-provider-dept-8001" />
+        <module name="demo-api" />
       </profile>
     </annotationProcessing>
   </component>
